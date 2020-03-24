@@ -1,0 +1,9 @@
+Pen,5,10,13
+Pencil,4,7,6
+Correction tape,18,25,10
+Rubber,3,5,10
+Highlighter,10,15,10
+Sharpener,55,70,10
+Stapler,35,45,13
+Paperclips,35,55,11
+Calculator,300,430,19
